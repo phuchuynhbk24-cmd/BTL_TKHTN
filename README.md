@@ -57,7 +57,6 @@ BTL_TKHTN2/
 ├── docs/                        # Tài liệu & Lưu đồ giải thuật SVG / PNG
 │   ├── FLOWCHARTS.md            # Tài liệu giải thích lưu đồ
 │   └── figures/                 # Toàn bộ ảnh và vector SVG chất lượng cao
-├── Overleaf_Docs/               # Bản nháp báo cáo môn học Overleaf LaTeX
 ├── BTL_TKHTN2.ioc               # File cấu hình STM32CubeMX
 └── STM32F103C8TX_FLASH.ld       # Linker script STM32F103C8T6 (64KB Flash, 20KB RAM)
 ```

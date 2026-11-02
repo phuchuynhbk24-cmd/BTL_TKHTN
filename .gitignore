@@ -14,6 +14,10 @@ Release/
 *.su
 *.cyclo
 
+# Overleaf and temp archives
+Overleaf_Docs/
+*.zip
+
 # OS generated
 Thumbs.db
 Desktop.ini
