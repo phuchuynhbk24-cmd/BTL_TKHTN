@@ -35,7 +35,7 @@ Toàn bộ giải thuật được module hóa thành 6 lưu đồ chuẩn SVG (
 > 📖 **Xem thuyết minh chi tiết kèm lưu đồ Mermaid:** [`docs/FLOWCHARTS.md`](docs/FLOWCHARTS.md)
 
 ### Sơ đồ toàn cảnh (Master Overview)
-![Kiến trúc giải thuật tổng thể](docs/figures/flowchart_algorithm.png)
+![Kiến trúc giải thuật tổng thể](flowchart_algorithm.png)
 
 ---
 
